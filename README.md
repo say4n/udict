@@ -48,10 +48,7 @@
 
     *   Initial release
 
-Made with <3 in the city of joy. Get it [here now](https://play.google.com/store/apps/details?id=xyz.sayangoswami.urbandictionary)!
+Made with <3 in the city of joy. Get it [here now](https://github.com/Sayan98/urbandictionary/raw/master/app/app-release-signed-2016-11-22.apk)!
 
 <footer class="site-footer"><span class="site-footer-owner">[Urban Dictionary](https://github.com/Sayan98/urbandictionary) is maintained by [Sayan98](https://github.com/Sayan98).</span></footer>
 
-</section>
-
-<style>ul { list-style-type: none; }</style>
