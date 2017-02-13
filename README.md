@@ -8,43 +8,43 @@
 
 #### App Changelog
 
-*   #### <a id="v1_0_0"></a>v1.0
+*   <a id="v1_0_0"></a>v1.0
 
     *   Fixed a lot of bugs
-*   #### <a id="v03_1"></a>v0.3.1
+*   <a id="v03_1"></a>v0.3.1
 
     *   Tons of under the hood changes
-*   #### <a id="v03_0"></a>v0.3.0
+*   <a id="v03_0"></a>v0.3.0
 
     *   Autocomplete for all definitions!
     *   More goodies incoming, keep calm!
-*   #### <a id="v02_1"></a>v0.2.1
+*   <a id="v02_1"></a>v0.2.1
 
     *   Fixed crashing issues on lower versions of Android
-*   #### <a id="v019_1"></a>v0.1.9
+*   <a id="v019_1"></a>v0.1.9
 
     *   Share words from definition itself
     *   Minor bug-fixes
-*   #### <a id="v017_1"></a>v0.1.7
+*   <a id="v017_1"></a>v0.1.7
 
     *   Minor bug fixes and performance improvements
-*   #### <a id="v016_1"></a>v0.1.6
+*   <a id="v016_1"></a>v0.1.6
 
     *   A few housekeeping changes
-*   ##### <a id="v015_1"></a>v0.1.5
+*   <a id="v015_1"></a>v0.1.5
 
     *   Blazing fast
     *   Vote from within the app!
-*   ##### <a id="v014_1"></a>v0.1.4
+*   <a id="v014_1"></a>v0.1.4
 
     *   Squashed a few of bugs
     *   Faster speed
     *   Optimized resources
-*   ##### <a id="v013_1"></a>v0.1.3
+*   <a id="v013_1"></a>v0.1.3
 
     *   Add new definitions to dictionary
     *   Fixed minor bugs
-*   ##### <a id="v012_1"></a>v0.1.2
+*   <a id="v012_1"></a>v0.1.2
 
     *   Initial release
 
