@@ -2,7 +2,7 @@
 
 #### A dictionary like no other.
 
-#### [<span aria-hidden="true" class="octicon octicon-link"></span>](#welcome-to-urban-dictionarys-unofficial-android-app)Welcome to Urban Dictionary's unofficial Android app.
+#### [<span aria-hidden="true" class="octicon octicon-link"></span>](#welcome-to-urban-dictionarys-unofficial-android-app)An unofficial Android app for Urban Dictionary.
 
 ![Urban Dictionary by Sayan Goswami (Sayan98)](https://github.com/Sayan98/urbandictionary/raw/master/app_landing.png)
 
