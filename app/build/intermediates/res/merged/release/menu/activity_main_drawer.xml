@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Spread the &#9829;">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/information_outline"
+                android:title="About" />
+            <item
+                android:id="@+id/changelog"
+                android:icon="@drawable/auto_fix"
+                android:title="Changelog"/>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="Share this app" />
+        </menu>
+    </item>
+
+</menu>

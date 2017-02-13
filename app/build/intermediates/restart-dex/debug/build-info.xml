@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="4939934919549"
+    token="-245345031947039010"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="377" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="315" />
+    <task
+        name="verifier"
+        duration="31" />
+
+    <artifact
+        location="/Users/Sayan/AndroidStudioProjects/UrbanDictionary/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="4939934919549"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Sayan/AndroidStudioProjects/UrbanDictionary/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
