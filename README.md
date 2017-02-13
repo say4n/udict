@@ -52,3 +52,6 @@ Made with <3 in the city of joy. Get it [here now](https://github.com/Sayan98/ur
 
 <footer class="site-footer"><span class="site-footer-owner">[Urban Dictionary](https://github.com/Sayan98/urbandictionary) is maintained by [Sayan98](https://github.com/Sayan98).</span></footer>
 
+
+“Urban Dictionary” is a registered trademark of Urban Dictionary, LLC, all rights reserved. The Urban Dictionary logo is a trademark of Urban Dictionary, LLC.
+
