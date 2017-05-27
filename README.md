@@ -4,7 +4,7 @@
 
 #### [<span aria-hidden="true" class="octicon octicon-link"></span>](#welcome-to-urban-dictionarys-unofficial-android-app)An unofficial Android app for Urban Dictionary.
 
-![Urban Dictionary by Sayan Goswami (Sayan98)](https://github.com/Sayan98/urbandictionary/raw/master/app_landing.png)
+![Urban Dictionary by Sayan Goswami (Sayan98)](https://github.com/Sayan98/udict/raw/master/app_landing.png)
 
 #### App Changelog
 
@@ -48,9 +48,9 @@
 
     *   Initial release
 
-Made with <3 in the city of joy. Get it [here now](https://github.com/Sayan98/urbandictionary/raw/master/app/app-release-signed-2016-11-22.apk)!
+Made with <3 in the city of joy. Get it [here now](https://github.com/Sayan98/udict/raw/master/app/app-release-signed-2016-11-22.apk)!
 
-<footer class="site-footer"><span class="site-footer-owner">[Urban Dictionary](https://github.com/Sayan98/urbandictionary) is maintained by [Sayan98](https://github.com/Sayan98).</span></footer>
+<footer class="site-footer"><span class="site-footer-owner">[Urban Dictionary](https://github.com/Sayan98/udict) is maintained by [Sayan98](https://github.com/Sayan98).</span></footer>
 
 
 <sub><sup>“Urban Dictionary” is a registered trademark of Urban Dictionary, LLC, all rights reserved. The Urban Dictionary logo is a trademark of Urban Dictionary, LLC. Access to the Urban Dictionary API is available only with the express permission of Urban Dictionary and is governed by the Urban Dictionary API Terms of Service.</sup></sub>
